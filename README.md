@@ -9,7 +9,7 @@ Esta aplicación web permite explorar datos de anuncios de venta de coches en Es
 
 ## Cómo usar
 1. Abre la aplicación en el siguiente enlace:
-https://tu-app.onrender.com
+https://proyect-sprint7-1peo.onrender.com
 
 2. Selecciona las casillas para visualizar los gráficos.
 
